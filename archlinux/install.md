@@ -23,7 +23,6 @@ This step is important, if not, it will be updated your mirror list and you need
 # station wlan0 get-networks // Get surrounding wifi_name
 # station wlan0 connect wifi_name // Connect wifi, then type password.
 # exit
-
 ```
 ## Edit pacman mirror source
 ```
